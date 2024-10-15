@@ -6,13 +6,7 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBUyZwqGfEFsSycrCJOA2m_N1PQWvbsU1k",
-  authDomain: "makeit-c8c9b.firebaseapp.com",
-  databaseURL: "https://makeit-c8c9b-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "makeit-c8c9b",
-  storageBucket: "makeit-c8c9b.appspot.com",
-  messagingSenderId: "616985108840",
-  appId: "1:616985108840:web:d5feae1aa1c223ed1e36dd"
+
 };
 
 // Initialize Firebase
